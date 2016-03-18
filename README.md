@@ -1,2 +1,0 @@
-# BaiduIFE
-IFEtasks
